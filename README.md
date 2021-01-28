@@ -2,10 +2,9 @@
 
  My name is Shaima Ihdoosh and I'm Full Stack Web Developer.
  
- 
+- 🔭 Currently working on React.js
+- 🌱 Learning Data Structure & Algorithms
 
-<!-- Actual text -->
-
-You can find me on
+Find me around the web 🌎
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shaimaihdoosh/)
 
