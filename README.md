@@ -20,5 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.3]][2].
 
 
 
-![](https://img.shields.io/badge/<Front End >-<Back End>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
