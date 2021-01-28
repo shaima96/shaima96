@@ -5,6 +5,6 @@
 - 🔭 Currently working on React.js
 - 🌱 Learning Data Structure & Algorithms
 
-Find me around the web 🌎
+## Find me around the web 🌎
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shaimaihdoosh/)
 
