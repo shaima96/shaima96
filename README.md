@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**shaima96/shaima96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Passion problem solving with knowledge and proficiency
+- Passion problem solving with knowledge and proficiency
 in a lot of languages,working individual with strong ability
 to communicate and work in a the team effectively to
 develop innovative solutions
