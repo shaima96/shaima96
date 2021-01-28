@@ -1,7 +1,4 @@
 ### Hi there 👋
- I'm ## Shaima ihdoosh and I'm Full Stack Web Developer
+ My name is Shaima ihdoosh and I'm Full Stack Web Developer.
 
-  Passion problem solving with knowledge and proficiency
-  in a lot of languages,working individual with strong ability
-  to communicate and work in a the team effectively to
-  develop innovative solutions.
+ You can find me on [https://www.linkedin.com/in/shaimaihdoosh/](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
