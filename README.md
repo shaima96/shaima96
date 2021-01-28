@@ -8,5 +8,4 @@
 
 You can find me on
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/shaimaihdoosh/)
-&nbsp;
-[![Twitter](https://imgur.com/KFs7hRJ) Twitter](https://twitter.com/shaimaihdoosh)
+
