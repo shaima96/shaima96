@@ -12,9 +12,9 @@
 I'm a __Full Stack Web  Developer__ based in __Palestine__. 
 
 * 💼 Currently I'm learning #Angular <br/>
-* Take a look to my portfolio (https://shaima-portfolio.herokuapp.com/) <br/>
-* Know about my experiences (https://drive.google.com/file/d/1YzBdGRaFE6nypg2RaYfa2Hv1-rbcs06B/view?usp=sharing)
-* 📫 How to reach me [shaimaihdoosh](shaimaazmi0@gmail.com)
+* Take a look to my portfolio https://shaima-portfolio.herokuapp.com/ <br/>
+* Know about my experiences https://drive.google.com/file/d/1YzBdGRaFE6nypg2RaYfa2Hv1-rbcs06B/view?usp=sharing <br/>
+* 📫 How to reach me shaimaazmi0@gmail.com
 
 ## My skills
 
