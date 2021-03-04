@@ -1,5 +1,5 @@
-<h1 text_align='center'><b>Hi there 👋</b></h1>
- <p text_align='center' >
+<h1 align="center">__Hi there__ 👋</h1>
+ <p  align="center" >
   <a href="https://shaima-portfolio.herokuapp.com/">Portfolio</a> 
   <a href="https://twitter.com/shaimaihdoosh">Twitter</a> 
   <a href="https://www.linkedin.com/in/shaimaihdoosh/">Linkedin</a>
