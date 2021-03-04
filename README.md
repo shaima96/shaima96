@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
- <p align="center">
-  <a href="https://shaima-portfolio.herokuapp.com/">Portfolio</a> •
-  <a href="https://twitter.com/shaimaihdoosh">Twitter</a> •
+ <p >
+  <a href="https://shaima-portfolio.herokuapp.com/">Portfolio</a> 
+  <a href="https://twitter.com/shaimaihdoosh">Twitter</a> 
   <a href="https://www.linkedin.com/in/shaimaihdoosh/">Linkedin</a>
 </p>
 
