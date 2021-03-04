@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1><b>Hi there 👋</b></h1>
  <p >
   <a href="https://shaima-portfolio.herokuapp.com/">Portfolio</a> 
   <a href="https://twitter.com/shaimaihdoosh">Twitter</a> 
