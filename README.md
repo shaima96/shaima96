@@ -16,7 +16,7 @@ I'm a __Full Stack Web Developer__ based in __Palestine__.
 
 ## My skills
 
-![Untitled design](https://user-images.githubusercontent.com/37650536/109967182-c6dceb80-7cf9-11eb-8873-1528097acf20.png)
+![Untitled design](https://user-images.githubusercontent.com/37650536/109977447-7f5c5c80-7d05-11eb-87e8-854f758a156d.png)
 
 
 
