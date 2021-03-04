@@ -17,7 +17,7 @@ I'm a __Full Stack Web Developer__ based in __Palestine__.
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+![Untitled design](https://user-images.githubusercontent.com/37650536/109967182-c6dceb80-7cf9-11eb-8873-1528097acf20.png)
 </p>
 
 
